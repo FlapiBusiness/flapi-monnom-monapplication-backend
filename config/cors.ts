@@ -3,9 +3,9 @@ import { defineConfig } from '@adonisjs/cors'
 const allowedOrigins: string[] = [
   'http://localhost:1460',
   'http://127.0.0.1:1460',
-  'https://dev.example.flapi.org',
-  'https://staging.example.flapi.org',
-  'https://example.flapi.org',
+  'https://dev.monsousdomain2.flapi.org',
+  'https://staging.monsousdomain2.flapi.org',
+  'https://monsousdomain2.flapi.org',
 ]
 
 /**
